@@ -1,2 +1,3 @@
 # Projetos 🐍
-##Projeto de escola calculando com 🐍
+
+Projeto de escola calculando com 🐍
